@@ -1,0 +1,108 @@
+{
+  "name": "Dávid Kuljovský",
+  "birthday": "17.9.1996",
+  "address": "Čadca, Slovakia",
+  "contact": {
+    "email": "davidkuljovsky@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/dkuljovsky/",
+    "github": "https://github.com/realdavone"
+  },
+  "education": [
+    {
+      "name": "FAKULTA RIADENIA A INFORMATIKY",
+      "timePeriod": "2016 - 2017",
+      "school": "Žilinská univerzita / Žilina, Slovak Republic",
+      "desc": "Informatics"
+    },
+    {
+      "name": "STREDNÁ PRIEMYSELNÁ ŠKOLA INFORMAČNÝCH TECHNOLÓGIÍ",
+      "timePeriod": "2012 - 2016",
+      "school": "Kysucké Nové Mesto, Slovak Republic",
+      "desc": "Information technologies"
+    }
+  ],
+  "experience": [
+    {
+      "name": "VARIOUS OTHER NON IT RELATED WORK EXPERIENCE",
+      "timePeriod": "JANUARY 2020 - DECEMBER 2022",
+      "employer": "PART-TIME",
+      "desc": "During this period I was not really involved profesionally in anything dev related. I was learning and perfecting my frontend and backend skills on my own while I was involved in various part-time activities."
+    },
+    {
+      "name": "WEB DEVELOPER",
+      "timePeriod": "JANUARY 2019 - JUNE 2019",
+      "employer": "LIONBRIDGE (SLOVAKIA) S.R.O. / ŽILINA, SLOVAK REPUBLIC",
+      "desc": "Creating new and maintaing existing HTML & CSS email templates and websites according to designs that we obtained from clients. Working on internal tools and reviewing code from my colleagues."
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "SCSS",
+    "ReactJS",
+    "Vue.js",
+    "NODE.JS",
+    "Express JS",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "GIT",
+    "Affnity Designer",
+    "jQuery",
+    "TypeScript",
+    "Socket.io",
+    "React Hooks"
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Proficient"
+    },
+    {
+      "name": "Slovak",
+      "level": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Filmotéka",
+      "url": "https://filmoteka.site",
+      "desc": "My first fullstack project which started in December 2021. This project serves as playground where I try to test my Vue skills.",
+      "technologies": [
+        "Vue",
+        "Typescript",
+        "Express.js",
+        "MongoDB",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Notes",
+      "url": "https://reactnotesapplication.netlify.app",
+      "desc": "Fullstack application that uses React as frontend framework. Application allows user to save notes either online or offline. Offline version stores notes in local storage, while online version stores them in dedicated DB.",
+      "technologies": [
+        "React",
+        "Typescript",
+        "Express.js",
+        "MongoDB",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Meteostation",
+      "url": "https://meteostanica.onrender.com",
+      "desc": "Simple application that receives, saves and shows data from ESP32 microcontroller with various sensors. This application is used as a school project.",
+      "technologies": [
+        "ESP32",
+        "Vue",
+        "Typescript",
+        "Express.js",
+        "MongoDB",
+        "NodeJS"
+      ]
+    }
+  ]
+}
