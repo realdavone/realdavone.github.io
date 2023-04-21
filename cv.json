@@ -5,7 +5,8 @@
   "contact": {
     "email": "davidkuljovsky@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dkuljovsky/",
-    "github": "https://github.com/realdavone"
+    "github": "https://github.com/realdavone",
+    "telephone": null
   },
   "education": [
     {
@@ -40,9 +41,9 @@
     "HTML",
     "CSS",
     "SCSS",
-    "ReactJS",
+    "React",
     "Vue.js",
-    "NODE.JS",
+    "Node.js",
     "Express JS",
     "Microsoft PowerPoint",
     "Microsoft Word",
@@ -50,10 +51,9 @@
     "Adobe Photoshop",
     "Adobe Illustrator",
     "GIT",
-    "Affnity Designer",
+    "Affinity Designer",
     "jQuery",
     "TypeScript",
-    "Socket.io",
     "React Hooks"
   ],
   "languages": [
